@@ -1,0 +1,99 @@
+{
+  "project": "sage-mapa-senai-20261013",
+  "billingEnabled": false,
+  "location": "southamerica-east1",
+  "count": 18,
+  "documents": [
+    {
+      "id": "cp-01",
+      "nome": "Academia Horizonte — Campinas",
+      "cidade": "Campinas"
+    },
+    {
+      "id": "cp-02",
+      "nome": "Academia Movimento — Campinas",
+      "cidade": "Campinas"
+    },
+    {
+      "id": "cp-03",
+      "nome": "Academia Energia — Campinas",
+      "cidade": "Campinas"
+    },
+    {
+      "id": "cp-04",
+      "nome": "Restaurante Jardim — Campinas",
+      "cidade": "Campinas"
+    },
+    {
+      "id": "cp-05",
+      "nome": "Parque Caminhos — Campinas",
+      "cidade": "Campinas"
+    },
+    {
+      "id": "cp-06",
+      "nome": "Centro Cultural Encontro — Campinas",
+      "cidade": "Campinas"
+    },
+    {
+      "id": "jd-01",
+      "nome": "Academia Horizonte — Jundiaí",
+      "cidade": "Jundiaí"
+    },
+    {
+      "id": "jd-02",
+      "nome": "Academia Movimento — Jundiaí",
+      "cidade": "Jundiaí"
+    },
+    {
+      "id": "jd-03",
+      "nome": "Academia Energia — Jundiaí",
+      "cidade": "Jundiaí"
+    },
+    {
+      "id": "jd-04",
+      "nome": "Restaurante Jardim — Jundiaí",
+      "cidade": "Jundiaí"
+    },
+    {
+      "id": "jd-05",
+      "nome": "Parque Caminhos — Jundiaí",
+      "cidade": "Jundiaí"
+    },
+    {
+      "id": "jd-06",
+      "nome": "Centro Cultural Encontro — Jundiaí",
+      "cidade": "Jundiaí"
+    },
+    {
+      "id": "sp-01",
+      "nome": "Academia Horizonte — São Paulo",
+      "cidade": "São Paulo"
+    },
+    {
+      "id": "sp-02",
+      "nome": "Academia Movimento — São Paulo",
+      "cidade": "São Paulo"
+    },
+    {
+      "id": "sp-03",
+      "nome": "Academia Energia — São Paulo",
+      "cidade": "São Paulo"
+    },
+    {
+      "id": "sp-04",
+      "nome": "Restaurante Jardim — São Paulo",
+      "cidade": "São Paulo"
+    },
+    {
+      "id": "sp-05",
+      "nome": "Parque Caminhos — São Paulo",
+      "cidade": "São Paulo"
+    },
+    {
+      "id": "sp-06",
+      "nome": "Centro Cultural Encontro — São Paulo",
+      "cidade": "São Paulo"
+    }
+  ],
+  "checkedAt": "2026-10-14T00:47:25.760Z"
+}

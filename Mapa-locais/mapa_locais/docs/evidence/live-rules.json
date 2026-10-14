@@ -1,0 +1,14 @@
+{
+  "project": "sage-mapa-senai-20261013",
+  "checkedAt": "2026-10-14T00:22:36.478Z",
+  "status": "passed",
+  "checks": [
+    "leitura autenticada",
+    "CRUD administrativo",
+    "CRUD negado a leitor",
+    "autopromoção negada",
+    "favorito true/false"
+  ],
+  "temporaryDocument": "assessment-live-1791937355350",
+  "cleanup": "documento e contas temporárias removidos ao terminar"
+}

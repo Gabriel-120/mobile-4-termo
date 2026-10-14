@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "180355769764",
+    "project_id": "sage-mapa-senai-20261013",
+    "storage_bucket": "sage-mapa-senai-20261013.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180355769764:android:c6b7f01b5ef54ab4c0cd31",
+        "android_client_info": {
+          "package_name": "br.com.sage.mapa_locais"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh-y3X0C0Q5SEedWFBN8b9B_cdqj5DTBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

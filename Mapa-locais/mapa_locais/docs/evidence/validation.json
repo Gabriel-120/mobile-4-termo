@@ -1,0 +1,46 @@
+{
+  "dateLocal": "2026-10-13",
+  "timezone": "America/Sao_Paulo",
+  "flutterAnalyze": "No issues found",
+  "widgetTests": {
+    "passed": 12,
+    "failed": 0,
+    "scope": "lógica e interface; repositório exclusivo de teste"
+  },
+  "firestoreRulesEmulator": {
+    "passed": 18,
+    "failed": 0,
+    "project": "demo-mapa-senai"
+  },
+  "publishedRules": "passed; SDK Firebase real; usuários e documento temporários removidos",
+  "androidIntegration": {
+    "status": "passed",
+    "testIds": [
+      "T01",
+      "T02",
+      "T03",
+      "T04",
+      "T05",
+      "T06",
+      "T07",
+      "T08",
+      "T09",
+      "T10",
+      "T11"
+    ],
+    "scope": "Firestore real via FlutterFire; consulta de servidor e CRUD; navegação em Android",
+    "errorSimulation": "teste de interface isolado; ausência de dados também no Android"
+  },
+  "temporaryAdmin": "revoked after assessment",
+  "initialReleaseApk": "compiled and installed successfully; OSM tiles visually verified",
+  "catalogCountAfterTests": 18,
+  "billingEnabled": false,
+  "finalCaptureCheck": "passed in Android; PNG integrity verified; temporary admin remains revoked",
+  "finalReleaseApk": {
+    "compiled": true,
+    "installed": true,
+    "signature": "APK v2 verified",
+    "bytes": 55866394,
+    "sha256": "e2a670421fbfdeef0b5a2abcf81cd194beb56b0968802ac94e43bcd3294b9e2e"
+  }
+}
